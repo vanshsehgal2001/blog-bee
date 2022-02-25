@@ -22,9 +22,9 @@ app.use('/auth', authRoutes)
 app.use('/users', usersRoutes)
 app.use('/profile', profileRoutes)
 
-app.get('/', (req, res) => {
-    res.send('Hey')
-})
+// app.get('/', (req, res) => {
+//     res.send('Hey')
+// })
 
 
 if (process.env.NODE_ENV == "production") {
