@@ -1,0 +1,5 @@
+{
+  "MONGO_URI": "mongodb+srv://vansh2001:vansh2001@full-stack-website-coll.3zhqu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "GITHUB_CLIENT_ID": "3c57c401c724d6e9c0b0",
+  "GITHUB_CLIENT_SECRET": "da113a9411166143649472eb1408b2614408c7a8"
+}

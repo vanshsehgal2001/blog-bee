@@ -1,0 +1,57 @@
+.post-container {
+  /* border: 2px solid black; */
+  height: 80vh;
+  margin-top: 50px;
+}
+
+.post-container .MuiTypography-h3 {
+  text-align: center;
+  color: lightgray;
+  margin-bottom: 40px;
+  margin-top: 10px;
+}
+
+form .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: white !important;
+}
+
+form .MuiSelect-root {
+  color: white;
+}
+
+form .MuiInputLabel-root {
+  color: white !important;
+}
+
+form .MuiTextField-root {
+  width: 75%;
+}
+
+form .MuiOutlinedInput-root {
+  color: white !important;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 100px #000 inset;
+  -webkit-text-fill-color: #fff;
+}
+
+form .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+  border-color: lightgray !important;
+}
+
+form .MuiButton-root {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  width: 75%;
+}
+
+form .MuiButton-root:hover {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}

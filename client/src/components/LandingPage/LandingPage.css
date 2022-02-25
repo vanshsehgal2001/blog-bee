@@ -1,0 +1,23 @@
+.MuiTypography-div {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, 50%);
+}
+
+.MuiTypography-div .MuiTypography-h5 {
+  text-align: center;
+}
+
+.MuiTypography-div .MuiTypography-h3 {
+  text-align: center;
+}
+
+.MuiTypography-div .btns {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+  gap: 20px;
+}

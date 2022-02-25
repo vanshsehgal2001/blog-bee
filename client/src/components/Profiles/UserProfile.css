@@ -1,0 +1,12 @@
+.user-profile .MuiButton-root {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.user-profile .MuiButton-root:hover {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
